@@ -12,4 +12,7 @@
   },
   "author": "sergio",
   "license": "ISC"
+  "publishConfig": {
+  "vegasergio2851:registry": "https://npm.pkg.github.com"
+}
 }
